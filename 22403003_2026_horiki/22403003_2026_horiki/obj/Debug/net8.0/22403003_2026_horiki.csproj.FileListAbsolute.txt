@@ -1,0 +1,14 @@
+C:\Users\TCJ304\Desktop\22403003_2026_horiki\22403003_2026_horiki\bin\Debug\net8.0\22403003_2026_horiki.exe
+C:\Users\TCJ304\Desktop\22403003_2026_horiki\22403003_2026_horiki\bin\Debug\net8.0\22403003_2026_horiki.deps.json
+C:\Users\TCJ304\Desktop\22403003_2026_horiki\22403003_2026_horiki\bin\Debug\net8.0\22403003_2026_horiki.runtimeconfig.json
+C:\Users\TCJ304\Desktop\22403003_2026_horiki\22403003_2026_horiki\bin\Debug\net8.0\22403003_2026_horiki.dll
+C:\Users\TCJ304\Desktop\22403003_2026_horiki\22403003_2026_horiki\bin\Debug\net8.0\22403003_2026_horiki.pdb
+C:\Users\TCJ304\Desktop\22403003_2026_horiki\22403003_2026_horiki\obj\Debug\net8.0\22403003_2026_horiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCJ304\Desktop\22403003_2026_horiki\22403003_2026_horiki\obj\Debug\net8.0\22403003_2026_horiki.AssemblyInfoInputs.cache
+C:\Users\TCJ304\Desktop\22403003_2026_horiki\22403003_2026_horiki\obj\Debug\net8.0\22403003_2026_horiki.AssemblyInfo.cs
+C:\Users\TCJ304\Desktop\22403003_2026_horiki\22403003_2026_horiki\obj\Debug\net8.0\22403003_2026_horiki.csproj.CoreCompileInputs.cache
+C:\Users\TCJ304\Desktop\22403003_2026_horiki\22403003_2026_horiki\obj\Debug\net8.0\22403003_2026_horiki.dll
+C:\Users\TCJ304\Desktop\22403003_2026_horiki\22403003_2026_horiki\obj\Debug\net8.0\refint\22403003_2026_horiki.dll
+C:\Users\TCJ304\Desktop\22403003_2026_horiki\22403003_2026_horiki\obj\Debug\net8.0\22403003_2026_horiki.pdb
+C:\Users\TCJ304\Desktop\22403003_2026_horiki\22403003_2026_horiki\obj\Debug\net8.0\22403003_2026_horiki.genruntimeconfig.cache
+C:\Users\TCJ304\Desktop\22403003_2026_horiki\22403003_2026_horiki\obj\Debug\net8.0\ref\22403003_2026_horiki.dll

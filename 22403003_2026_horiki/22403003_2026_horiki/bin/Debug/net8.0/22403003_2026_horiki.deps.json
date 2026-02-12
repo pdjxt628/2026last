@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "22403003_2026_horiki/1.0.0": {
+        "runtime": {
+          "22403003_2026_horiki.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "22403003_2026_horiki/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
