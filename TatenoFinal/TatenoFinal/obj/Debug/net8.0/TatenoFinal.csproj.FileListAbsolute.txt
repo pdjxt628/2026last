@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\TatenoFinal\TatenoFinal\bin\Debug\net8.0\TatenoFinal.exe
+C:\Users\student\source\repos\TatenoFinal\TatenoFinal\bin\Debug\net8.0\TatenoFinal.deps.json
+C:\Users\student\source\repos\TatenoFinal\TatenoFinal\bin\Debug\net8.0\TatenoFinal.runtimeconfig.json
+C:\Users\student\source\repos\TatenoFinal\TatenoFinal\bin\Debug\net8.0\TatenoFinal.dll
+C:\Users\student\source\repos\TatenoFinal\TatenoFinal\bin\Debug\net8.0\TatenoFinal.pdb
+C:\Users\student\source\repos\TatenoFinal\TatenoFinal\obj\Debug\net8.0\TatenoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\TatenoFinal\TatenoFinal\obj\Debug\net8.0\TatenoFinal.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\TatenoFinal\TatenoFinal\obj\Debug\net8.0\TatenoFinal.AssemblyInfo.cs
+C:\Users\student\source\repos\TatenoFinal\TatenoFinal\obj\Debug\net8.0\TatenoFinal.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\TatenoFinal\TatenoFinal\obj\Debug\net8.0\TatenoFinal.dll
+C:\Users\student\source\repos\TatenoFinal\TatenoFinal\obj\Debug\net8.0\refint\TatenoFinal.dll
+C:\Users\student\source\repos\TatenoFinal\TatenoFinal\obj\Debug\net8.0\TatenoFinal.pdb
+C:\Users\student\source\repos\TatenoFinal\TatenoFinal\obj\Debug\net8.0\TatenoFinal.genruntimeconfig.cache
+C:\Users\student\source\repos\TatenoFinal\TatenoFinal\obj\Debug\net8.0\ref\TatenoFinal.dll
