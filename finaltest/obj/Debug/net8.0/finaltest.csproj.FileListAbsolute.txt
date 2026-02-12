@@ -1,0 +1,14 @@
+C:\Users\Mori\Documents\school\cclass\finaltest\finaltest\bin\Debug\net8.0\finaltest.exe
+C:\Users\Mori\Documents\school\cclass\finaltest\finaltest\bin\Debug\net8.0\finaltest.deps.json
+C:\Users\Mori\Documents\school\cclass\finaltest\finaltest\bin\Debug\net8.0\finaltest.runtimeconfig.json
+C:\Users\Mori\Documents\school\cclass\finaltest\finaltest\bin\Debug\net8.0\finaltest.dll
+C:\Users\Mori\Documents\school\cclass\finaltest\finaltest\bin\Debug\net8.0\finaltest.pdb
+C:\Users\Mori\Documents\school\cclass\finaltest\finaltest\obj\Debug\net8.0\finaltest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mori\Documents\school\cclass\finaltest\finaltest\obj\Debug\net8.0\finaltest.AssemblyInfoInputs.cache
+C:\Users\Mori\Documents\school\cclass\finaltest\finaltest\obj\Debug\net8.0\finaltest.AssemblyInfo.cs
+C:\Users\Mori\Documents\school\cclass\finaltest\finaltest\obj\Debug\net8.0\finaltest.csproj.CoreCompileInputs.cache
+C:\Users\Mori\Documents\school\cclass\finaltest\finaltest\obj\Debug\net8.0\finaltest.dll
+C:\Users\Mori\Documents\school\cclass\finaltest\finaltest\obj\Debug\net8.0\refint\finaltest.dll
+C:\Users\Mori\Documents\school\cclass\finaltest\finaltest\obj\Debug\net8.0\finaltest.pdb
+C:\Users\Mori\Documents\school\cclass\finaltest\finaltest\obj\Debug\net8.0\finaltest.genruntimeconfig.cache
+C:\Users\Mori\Documents\school\cclass\finaltest\finaltest\obj\Debug\net8.0\ref\finaltest.dll
