@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Ai\WholeNumberChecker\WholeNumberChecker\bin\Debug\net7.0\WholeNumberChecker.exe
+C:\Users\student\Desktop\Ai\WholeNumberChecker\WholeNumberChecker\bin\Debug\net7.0\WholeNumberChecker.deps.json
+C:\Users\student\Desktop\Ai\WholeNumberChecker\WholeNumberChecker\bin\Debug\net7.0\WholeNumberChecker.runtimeconfig.json
+C:\Users\student\Desktop\Ai\WholeNumberChecker\WholeNumberChecker\bin\Debug\net7.0\WholeNumberChecker.dll
+C:\Users\student\Desktop\Ai\WholeNumberChecker\WholeNumberChecker\bin\Debug\net7.0\WholeNumberChecker.pdb
+C:\Users\student\Desktop\Ai\WholeNumberChecker\WholeNumberChecker\obj\Debug\net7.0\WholeNumberChecker.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ai\WholeNumberChecker\WholeNumberChecker\obj\Debug\net7.0\WholeNumberChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Ai\WholeNumberChecker\WholeNumberChecker\obj\Debug\net7.0\WholeNumberChecker.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Ai\WholeNumberChecker\WholeNumberChecker\obj\Debug\net7.0\WholeNumberChecker.AssemblyInfo.cs
+C:\Users\student\Desktop\Ai\WholeNumberChecker\WholeNumberChecker\obj\Debug\net7.0\WholeNumberChecker.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ai\WholeNumberChecker\WholeNumberChecker\obj\Debug\net7.0\WholeNumberChecker.dll
+C:\Users\student\Desktop\Ai\WholeNumberChecker\WholeNumberChecker\obj\Debug\net7.0\refint\WholeNumberChecker.dll
+C:\Users\student\Desktop\Ai\WholeNumberChecker\WholeNumberChecker\obj\Debug\net7.0\WholeNumberChecker.pdb
+C:\Users\student\Desktop\Ai\WholeNumberChecker\WholeNumberChecker\obj\Debug\net7.0\WholeNumberChecker.genruntimeconfig.cache
+C:\Users\student\Desktop\Ai\WholeNumberChecker\WholeNumberChecker\obj\Debug\net7.0\ref\WholeNumberChecker.dll
